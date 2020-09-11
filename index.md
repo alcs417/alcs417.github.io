@@ -8,6 +8,7 @@ I am currently an Associate Professor in School of Information Science and Engin
 
 # Funding
 -National Natural Science Foundation of China: "Research on identification algorithms of Pan-Cancer miRNA regulatory modules based on next-generation sequencing data"(No. 61602283), 2017.1-2019.12
+
 -Natural Science Foundation of Shandong Province: "Pan-cancer module discovery based on miRNA regulatory networks" (No. ZR2016FB10), 2016.11-2018.11
 
 # Publications
