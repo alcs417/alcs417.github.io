@@ -1,5 +1,5 @@
 # Personal Info
-I am currently an Associate Professor in School of Information Science and Engineering, Shandong Normal University. I obtained my MD degree and PhD degree in 2010 and 2015 from Hunan University, under the supervision of Prof. Renfa Li(李仁发 教授) and Prof. Jiawei Luo(骆嘉伟 教授), respectively. From 2012 to 2014, I studied in Donnelly Centre, University of Toronto, under the supervision of Prof. Zhaolei Zhang. I was awarded the Excellent Doctoral Dissertation of Hunan University in 2016. My current research interests include bioinformatics and machine learning. 
+I am currently an Associate Professor in School of Information Science and Engineering, Shandong Normal University(山东师范大学). I obtained my MD degree and PhD degree in 2010 and 2015 from Hunan University(湖南大学), under the supervision of Prof. Renfa Li(李仁发 教授) and Prof. Jiawei Luo(骆嘉伟 教授), respectively. From 2012 to 2014, I studied in Donnelly Centre, University of Toronto, under the supervision of Prof. Zhaolei Zhang. I was awarded the Excellent Doctoral Dissertation of Hunan University in 2016. My current research interests include bioinformatics and machine learning. 
 
 # Research Interests
 1. Cancer subtype classification
@@ -7,11 +7,10 @@ I am currently an Associate Professor in School of Information Science and Engin
 3. Disease biomarkers prediction
 
 # Funding
--National Natural Science Foundation of China: "Research on identification algorithms of Pan-Cancer miRNA regulatory modules based on next-generation sequencing data"(No. 61602283), 2017.1-2019.12
+- National Natural Science Foundation of China: "Research on identification algorithms of Pan-Cancer miRNA regulatory modules based on next-generation sequencing data"(No. 61602283), 2017.1-2019.12
+- Natural Science Foundation of Shandong Province: "Pan-cancer module discovery based on miRNA regulatory networks" (No. ZR2016FB10), 2016.11-2018.11
 
--Natural Science Foundation of Shandong Province: "Pan-cancer module discovery based on miRNA regulatory networks" (No. ZR2016FB10), 2016.11-2018.11
-
-# Publications
+# Selected Publications
 1.	Jie Cai, Cheng Liang*, Jiawei Luo. Feature selection using information distance measure for gene expression data. Current Proteomics, 2017, accepted.
 2.	Yu Qu, Huaxiang Zhang*, Cheng Liang*, Xiao Dong. KATZMDA: Prediction of miRNA-disease associations based on KATZ model. IEEE Access, 2018, 6: 3943-3950.
 3.	Xiaoying Yang, Ling Gao*, Cheng Liang*. Inferring disease-miRNA associations by self-weighting with multiple data source. Molecular Biology, 2017, accepted.
