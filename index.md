@@ -11,7 +11,7 @@ I am currently an Associate Professor in School of Information Science and Engin
 - Natural Science Foundation of Shandong Province: "Pan-cancer module discovery based on miRNA regulatory networks" (No. ZR2016FB10), 2016.11-2018.11
 
 # Selected Publications
-1.	Jie Cai, Cheng Liang*, Jiawei Luo. Feature selection using information distance measure for gene expression data. Current Proteomics, 2017, accepted.
+1.	Jie Cai, **Cheng Liang***, Jiawei Luo. Feature selection using information distance measure for gene expression data. Current Proteomics, 2017, accepted.
 2.	Yu Qu, Huaxiang Zhang*, Cheng Liang*, Xiao Dong. KATZMDA: Prediction of miRNA-disease associations based on KATZ model. IEEE Access, 2018, 6: 3943-3950.
 3.	Xiaoying Yang, Ling Gao*, Cheng Liang*. Inferring disease-miRNA associations by self-weighting with multiple data source. Molecular Biology, 2017, accepted.
 4.	Cheng Liang, Yue Li, Jiawei Luo. A Novel Method to Detect Functional microRNA Regulatory Modules by Bicliques Merging. IEEE-ACM Transactions on Computational Biology and Bioinformatics, 2016, 13(3): 549-556
