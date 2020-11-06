@@ -2,7 +2,7 @@
 I am currently an Associate Professor in School of Information Science and Engineering, Shandong Normal University(山东师范大学). I obtained my MD degree and PhD degree in 2010 and 2015 from Hunan University(湖南大学), under the supervision of Prof. Renfa Li(李仁发 教授) and Prof. Jiawei Luo(骆嘉伟 教授), respectively. From 2012 to 2014, I studied in Donnelly Centre, University of Toronto, under the supervision of Prof. Zhaolei Zhang. I was awarded the Excellent Doctoral Dissertation of Hunan University in 2016. My current research interests include bioinformatics and machine learning. 
 
 # Research Interests
-1. Cancer subtype classification
+1. Cancer subtype identification
 2. Multiview unsupervised learning
 3. Disease biomarkers prediction
 
