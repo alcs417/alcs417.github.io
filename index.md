@@ -11,7 +11,7 @@ I am currently an Associate Professor in School of Information Science and Engin
 - Natural Science Foundation of Shandong Province: "Pan-cancer module discovery based on miRNA regulatory networks" (No. ZR2016FB10), 2016.11-2018.11
 
 # Selected Publications
-20. **Cheng Liang***, Mingchao Shang, Jiawei Luo*. Cancer subtype identification by consensus guided graph autoencoders. Bioinformatics, 2021: 37(24):4779-4786.
+20. **Cheng Liang***, Mingchao Shang, Jiawei Luo. Cancer subtype identification by consensus guided graph autoencoders. Bioinformatics, 2021: 37(24):4779-4786.
 19. Haoran Liu#, Mingchao Shang#, Huaxiang Zhang*, **Cheng Liang***. Cancer Subtype Identification based on Multi-view Subspace Clustering with Adaptive Local Structure Learning, IEEE BIBM, 2021, accepted. (acceptance rate 19.6%)
 18. Fei Wang, Lei Zhu, **Cheng Liang***, Jingjing Li, Xiaojun Chang, Ke Lu. Robust optimal graph clustering. Neurocomputing, 2020, 378: 153-165.
 17. Haojiang Tan, Quanmeng Sun, Guanghui Li, Qiu Xiao, Pingjian Ding, Jiawei Luo, **Cheng Liang***. Multiview Consensus Graph Learning for lncRNA-Disease Association Prediction. Frontiers in Genetics, 2020, 11: 89.
