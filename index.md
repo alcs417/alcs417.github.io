@@ -13,9 +13,9 @@ I am currently an Associate Professor in School of Information Science and Engin
 # Selected Publications
 24. Mingchao Shang, **Cheng Liang***, Jiawei Luo, Huaxiang Zhang. Incomplete multi-view clustering by simultaneously learning robust representations and optimal graph structures. Information Sciences, 2023, accepted.
 23. **Cheng Liang**, Lianzhi Wang, Li Liu, Huaxiang Zhang, Fei Guo\*. Multi-view Unsupervised Feature Selection with Tensor Robust Principal Component Analysis and Consensus Graph Learning. Pattern Recognition, 2023, doi: 10.1016/j.patcog.2023.109632.
-22. Xiaofeng Shi, **Cheng Liang***, Hong Wong. Multiview Robust Graph-Based Clustering for Cancer Subtype Identification. IEEE-ACM Transactions on Computational Biology and Bioinformatics. 2023, 20(1):544-556.
+22. Xiaofeng Shi, **Cheng Liang***, Hong Wong. Multiview Robust Graph-Based Clustering for Cancer Subtype Identification. IEEE-ACM Transactions on Computational Biology and Bioinformatics. 2023, 20(1): 544-556.
 21. Lianzhi Wang, **Cheng Liang***, Wenjiao Dong, Wenlan Chen. Multi-view Unsupervised Feature Selection via Consensus Guided Low-rank Tensor Learning. IEEE BIBM, 2022: 575-580. (acceptance rate 19.8%)
-20. **Cheng Liang***, Mingchao Shang, Jiawei Luo\*. Cancer subtype identification by consensus guided graph autoencoders. Bioinformatics, 2021: 37(24): 4779-4786.
+20. **Cheng Liang***, Mingchao Shang, Jiawei Luo\*. Cancer subtype identification by consensus guided graph autoencoders. Bioinformatics, 2021, 37(24): 4779-4786.
 19. Haoran Liu#, Mingchao Shang#, Huaxiang Zhang\*, **Cheng Liang**\*. Cancer Subtype Identification based on Multi-view Subspace Clustering with Adaptive Local Structure Learning, IEEE BIBM, 2021, 484-490. (acceptance rate 19.6%)
 18. Fei Wang, Lei Zhu, **Cheng Liang***, Jingjing Li, Xiaojun Chang, Ke Lu. Robust optimal graph clustering. Neurocomputing, 2020, 378: 153-165.
 17. Haojiang Tan, Quanmeng Sun, Guanghui Li, Qiu Xiao, Pingjian Ding, Jiawei Luo, **Cheng Liang***. Multiview Consensus Graph Learning for lncRNA-Disease Association Prediction. Frontiers in Genetics, 2020, 11: 89.
