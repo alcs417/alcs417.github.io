@@ -11,7 +11,7 @@ I am currently an Associate Professor in School of Information Science and Engin
 - Natural Science Foundation of Shandong Province: "Pan-cancer module discovery based on miRNA regulatory networks" (No. ZR2016FB10), 2016.11-2018.11
 
 # Selected Publications
-24. Mingchao Shang, **Cheng Liang***, Jiawei Luo, Huaxiang Zhang. Incomplete multi-view clustering by simultaneously learning robust representations and optimal graph structures. Information Sciences, 2023, accepted.
+24. Mingchao Shang, **Cheng Liang***, Jiawei Luo, Huaxiang Zhang. Incomplete multi-view clustering by simultaneously learning robust representations and optimal graph structures. Information Sciences, 2023, doi: 10.1016/j.ins.2023.119038.
 23. **Cheng Liang**, Lianzhi Wang, Li Liu, Huaxiang Zhang, Fei Guo\*. Multi-view Unsupervised Feature Selection with Tensor Robust Principal Component Analysis and Consensus Graph Learning. Pattern Recognition, 2023, doi: 10.1016/j.patcog.2023.109632.
 22. Xiaofeng Shi, **Cheng Liang***, Hong Wong. Multiview Robust Graph-Based Clustering for Cancer Subtype Identification. IEEE-ACM Transactions on Computational Biology and Bioinformatics. 2023, 20(1): 544-556.
 21. Lianzhi Wang, **Cheng Liang***, Wenjiao Dong, Wenlan Chen. Multi-view Unsupervised Feature Selection via Consensus Guided Low-rank Tensor Learning. IEEE BIBM, 2022: 575-580. (acceptance rate 19.8%)
