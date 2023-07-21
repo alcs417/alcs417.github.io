@@ -7,12 +7,15 @@ I am currently an Associate Professor in School of Information Science and Engin
 3. Machine learning
 
 # Funding
-- National Natural Science Foundation of China: "Research on identification algorithms of Pan-Cancer miRNA regulatory modules based on next-generation sequencing data"(No. 61602283), 2017.1-2019.12
-- Natural Science Foundation of Shandong Province: "Pan-cancer module discovery based on miRNA regulatory networks" (No. ZR2016FB10), 2016.11-2018.11
+- Natural Science Foundation of Shandong Province (No. ZR2023MF119), 2024.01-2026.12
+- National Natural Science Foundation of China (No. 61602283), 2017.1-2019.12
+- Natural Science Foundation of Shandong Province (No. ZR2016FB10), 2016.11-2018.11
 
 # Selected Publications
-24. Mingchao Shang, **Cheng Liang***, Jiawei Luo, Huaxiang Zhang. Incomplete multi-view clustering by simultaneously learning robust representations and optimal graph structures. Information Sciences, 2023, doi: 10.1016/j.ins.2023.119038.
-23. **Cheng Liang**, Lianzhi Wang, Li Liu, Huaxiang Zhang, Fei Guo\*. Multi-view Unsupervised Feature Selection with Tensor Robust Principal Component Analysis and Consensus Graph Learning. Pattern Recognition, 2023, doi: 10.1016/j.patcog.2023.109632.
+26. Wenlan Chen, Hong Wang, **Cheng Liang**\*. Deep multi-view contrastive learning for cancer subtype identification, 2023, doi: 10.1093/bib/bbad282.
+25. Xuejing Shi, Juntong Zhu, Yahui Long\*, **Cheng Liang**\*. Identifying spatial domains of spatially resolved transcriptomics via multi-view graph convolutional networks. Briefings in Bioinformatics, 2023, doi: 10.1093/bib/bbad278. 
+24. Mingchao Shang, **Cheng Liang**\*, Jiawei Luo, Huaxiang Zhang. Incomplete multi-view clustering by simultaneously learning robust representations and optimal graph structures. Information Sciences, 2023, 640: 119038.
+23. **Cheng Liang**, Lianzhi Wang, Li Liu, Huaxiang Zhang, Fei Guo\*. Multi-view Unsupervised Feature Selection with Tensor Robust Principal Component Analysis and Consensus Graph Learning. Pattern Recognition, 2023, 141: 109632.
 22. Xiaofeng Shi, **Cheng Liang***, Hong Wong. Multiview Robust Graph-Based Clustering for Cancer Subtype Identification. IEEE-ACM Transactions on Computational Biology and Bioinformatics. 2023, 20(1): 544-556.
 21. Lianzhi Wang, **Cheng Liang***, Wenjiao Dong, Wenlan Chen. Multi-view Unsupervised Feature Selection via Consensus Guided Low-rank Tensor Learning. IEEE BIBM, 2022: 575-580. (acceptance rate 19.8%)
 20. **Cheng Liang***, Mingchao Shang, Jiawei Luo\*. Cancer subtype identification by consensus guided graph autoencoders. Bioinformatics, 2021, 37(24): 4779-4786.
