@@ -12,7 +12,7 @@ I am currently an Associate Professor in School of Information Science and Engin
 - Natural Science Foundation of Shandong Province (No. ZR2016FB10), 2016.11-2018.11
 
 # Selected Publications
-26. Wenlan Chen, Hong Wang, **Cheng Liang**\*. Deep multi-view contrastive learning for cancer subtype identification, 2023, doi: 10.1093/bib/bbad282.
+26. Wenlan Chen, Hong Wang, **Cheng Liang**\*. Deep multi-view contrastive learning for cancer subtype identification. Briefings in Bioinformatics, 2023, doi: 10.1093/bib/bbad282.
 25. Xuejing Shi, Juntong Zhu, Yahui Long\*, **Cheng Liang**\*. Identifying spatial domains of spatially resolved transcriptomics via multi-view graph convolutional networks. Briefings in Bioinformatics, 2023, doi: 10.1093/bib/bbad278. 
 24. Mingchao Shang, **Cheng Liang**\*, Jiawei Luo, Huaxiang Zhang. Incomplete multi-view clustering by simultaneously learning robust representations and optimal graph structures. Information Sciences, 2023, 640: 119038.
 23. **Cheng Liang**, Lianzhi Wang, Li Liu, Huaxiang Zhang, Fei Guo\*. Multi-view Unsupervised Feature Selection with Tensor Robust Principal Component Analysis and Consensus Graph Learning. Pattern Recognition, 2023, 141: 109632.
