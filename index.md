@@ -7,6 +7,7 @@ I am currently an Associate Professor in School of Information Science and Engin
 3. Machine learning
 
 # Funding
+- National Natural Science Foundation of China (No. 62372279), 2024.01-2027.12
 - Natural Science Foundation of Shandong Province (No. ZR2023MF119), 2024.01-2026.12
 - National Natural Science Foundation of China (No. 61602283), 2017.1-2019.12
 - Natural Science Foundation of Shandong Province (No. ZR2016FB10), 2016.11-2018.11
