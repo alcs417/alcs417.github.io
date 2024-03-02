@@ -13,8 +13,9 @@ I am currently an Associate Professor in School of Information Science and Engin
 - Natural Science Foundation of Shandong Province (No. ZR2016FB10), 2016.11-2018.11
 
 # Selected Publications
-26. Wenlan Chen, Hong Wang, **Cheng Liang**\*. Deep multi-view contrastive learning for cancer subtype identification. Briefings in Bioinformatics, 2023, doi: 10.1093/bib/bbad282.
-25. Xuejing Shi, Juntong Zhu, Yahui Long\*, **Cheng Liang**\*. Identifying spatial domains of spatially resolved transcriptomics via multi-view graph convolutional networks. Briefings in Bioinformatics, 2023, doi: 10.1093/bib/bbad278. 
+27. Guanghui Li, Peihao Bai, Jiao Chen, **Cheng Liang**\*. Identifying virulence factors using graph transformer autoencoder with ESMFold-predicted structures. Computers in Biology and Medicine, 2024, 170: 108062.
+26. Wenlan Chen, Hong Wang, **Cheng Liang**\*. Deep multi-view contrastive learning for cancer subtype identification. Briefings in Bioinformatics, 2023, 24(5): bbad282.
+25. Xuejing Shi, Juntong Zhu, Yahui Long\*, **Cheng Liang**\*. Identifying spatial domains of spatially resolved transcriptomics via multi-view graph convolutional networks. Briefings in Bioinformatics, 2023, 24(5): bbad278. 
 24. Mingchao Shang, **Cheng Liang**\*, Jiawei Luo, Huaxiang Zhang. Incomplete multi-view clustering by simultaneously learning robust representations and optimal graph structures. Information Sciences, 2023, 640: 119038.
 23. **Cheng Liang**, Lianzhi Wang, Li Liu, Huaxiang Zhang, Fei Guo\*. Multi-view Unsupervised Feature Selection with Tensor Robust Principal Component Analysis and Consensus Graph Learning. Pattern Recognition, 2023, 141: 109632.
 22. Xiaofeng Shi, **Cheng Liang***, Hong Wong. Multiview Robust Graph-Based Clustering for Cancer Subtype Identification. IEEE-ACM Transactions on Computational Biology and Bioinformatics. 2023, 20(1): 544-556.
@@ -23,13 +24,13 @@ I am currently an Associate Professor in School of Information Science and Engin
 19. Haoran Liu#, Mingchao Shang#, Huaxiang Zhang\*, **Cheng Liang**\*. Cancer Subtype Identification based on Multi-view Subspace Clustering with Adaptive Local Structure Learning, IEEE BIBM, 2021, 484-490. (acceptance rate 19.6%)
 18. Fei Wang, Lei Zhu, **Cheng Liang***, Jingjing Li, Xiaojun Chang, Ke Lu. Robust optimal graph clustering. Neurocomputing, 2020, 378: 153-165.
 17. Haojiang Tan, Quanmeng Sun, Guanghui Li, Qiu Xiao, Pingjian Ding, Jiawei Luo, **Cheng Liang***. Multiview Consensus Graph Learning for lncRNA-Disease Association Prediction. Frontiers in Genetics, 2020, 11: 89.
-16. Ka-Chun Wong, Jiao Zhang, Shankai Yan, Xiangtao Li, Qiuzhen Lin, Sam Kwong, **Cheng Liang**. DNA Sequencing Technologies: Sequencing Data Protocols and Bioinformatics Tools. ACM Computing Surveys, 2019, 52(5): 98.
-15. Zhenxia Pan, Huaxiang Zhang\*, **Cheng Liang***, Guanghui Li, Qiu Xiao, Pingjian Ding, Jiawei Luo. Self-Weighted Multi-Kernel Multi-Label Learning for Potential miRNA-Disease Association Prediction. Molecular Therapy-Nucleic Acids, 2019, 17: 414-423.
-14. **Cheng Liang***, Shengpeng Yu, Jiawei Luo\*. Adaptive multi-view multi-label learning for identifying disease-associated candidate miRNAs. PLoS Computational Biology, 2019, 15(4): e1006931.
-13. Ka-Chun Wong, Jiecong Lin, Xiangtao Li, Qiuzhen Lin, **Cheng Liang**, You-Qiang Song. Heterodimeric DNA motif synthesis and validations. Nucleic Acids Research, 2019, 47(4): 1628-1636.
-12. Qiu Xiao, Jiawei Luo, **Cheng Liang**, Jie Cai, Guanghui Li, Buwen Cao. CeModule: an integrative framework for discovering regulatory patterns from genomic data in cancer. BMC Bioinformatics, 2019, 20: 67.
+16. Qiu Xiao, Jiawei Luo, **Cheng Liang**, Jie Cai, Guanghui Li, Buwen Cao. Identifying lncRNA and mRNA Co-Expression Modules from Matched Expression Data in Ovarian Cancer. IEEE-ACM Transactions on Computational Biology and Bioinformatics, 2020, 17(2): 623-634. (_2020 TCBB Best Paper Award_)
+15. Ka-Chun Wong, Jiao Zhang, Shankai Yan, Xiangtao Li, Qiuzhen Lin, Sam Kwong, **Cheng Liang**. DNA Sequencing Technologies: Sequencing Data Protocols and Bioinformatics Tools. ACM Computing Surveys, 2019, 52(5): 98.
+14. Zhenxia Pan, Huaxiang Zhang\*, **Cheng Liang***, Guanghui Li, Qiu Xiao, Pingjian Ding, Jiawei Luo. Self-Weighted Multi-Kernel Multi-Label Learning for Potential miRNA-Disease Association Prediction. Molecular Therapy-Nucleic Acids, 2019, 17: 414-423.
+13. **Cheng Liang***, Shengpeng Yu, Jiawei Luo\*. Adaptive multi-view multi-label learning for identifying disease-associated candidate miRNAs. PLoS Computational Biology, 2019, 15(4): e1006931.
+12. Ka-Chun Wong, Jiecong Lin, Xiangtao Li, Qiuzhen Lin, **Cheng Liang**, You-Qiang Song. Heterodimeric DNA motif synthesis and validations. Nucleic Acids Research, 2019, 47(4): 1628-1636. 
 11. Shengpeng Yu, **Cheng Liang***, Qiu Xiao, Guanghui Li, Pingjian Ding, Jiawei Luo. MCLPMDA: A novel method for miRNA-disease association prediction based on matrix completion and label propagation. Journal of Cellular and Molecular Medicine, 2019, 23(2): 1427-1438.
-10. **Cheng Liang***, Shengpeng Yu, Ka-Chun Wong, Jiawei Luo. A novel semi-supervised model for miRNA-disease association prediction based on l1-norm graph. Journal of Translational Medicine, 2018, 16: 357.
+10. **Cheng Liang***, Shengpeng Yu, Ka-Chun Wong, Jiawei Luo\*. A novel semi-supervised model for miRNA-disease association prediction based on l1-norm graph. Journal of Translational Medicine, 2018, 16: 357.
 9. Qiu Xiao, Jiawei Luo, **Cheng Liang**, Jie Cai, Pingjian Ding. A graph regularized non-negative matrix factorization method for identifying microRNA-disease associations. Bioinformatics, 2018, 34(2): 239-248. (_Highly Cited Paper_)
 8. Jie Cai, **Cheng Liang***, Jiawei Luo. Feature selection using information distance measure for gene expression data. Current Proteomics, 2018, 15(5): 352-362.
 7.	**Cheng Liang**, Yue Li, Jiawei Luo. A Novel Method to Detect Functional microRNA Regulatory Modules by Bicliques Merging. IEEE-ACM Transactions on Computational Biology and Bioinformatics, 2016, 13(3): 549-556
