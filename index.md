@@ -14,7 +14,7 @@ I am currently an Associate Professor in School of Information Science and Engin
 
 # Selected Publications
 30. Hong Wang, Luhe Zhuang, Yijie Ding, Prayag Tiwari, **Cheng Liang**\*. EDDINet: Enhancing drug-drug interaction prediction via information flow and consensus constrained multi-graph contrastive learning. Artificial Intelligence In Medicine, 2025, 159: 103029.
-29. Peihao Bai, Guanghui Li/*, Jiawei Luo, **Cheng Liang**\*. Deep learning model for protein multi-label subcellular localization and function prediction based on multi-task collaborative training. Briefings in Bioinformatics, 2024, 25(6): bbae568.
+29. Peihao Bai, Guanghui Li\*, Jiawei Luo, **Cheng Liang**\*. Deep learning model for protein multi-label subcellular localization and function prediction based on multi-task collaborative training. Briefings in Bioinformatics, 2024, 25(6): bbae568.
 28. **Cheng Liang**, Daoyuan Wang, Huaxiang Zhang, Shichao Zhang\*, Fei Guo\*. Robust Tensor Subspace Learning for Incomplete Multi-View Clustering. IEEE Transactions on Knowledge and Data Engineering, 2024, 36(11): 6934-6948.
 27. Guanghui Li, Peihao Bai, Jiao Chen, **Cheng Liang**\*. Identifying virulence factors using graph transformer autoencoder with ESMFold-predicted structures. Computers in Biology and Medicine, 2024, 170: 108062.
 26. Wenlan Chen, Hong Wang, **Cheng Liang**\*. Deep multi-view contrastive learning for cancer subtype identification. Briefings in Bioinformatics, 2023, 24(5): bbad282.
