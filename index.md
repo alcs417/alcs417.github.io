@@ -13,6 +13,8 @@ I am currently an Associate Professor in School of Information Science and Engin
 - Natural Science Foundation of Shandong Province (No. ZR2016FB10), 2016.11-2018.11
 
 # Selected Publications
+32. Zhimin Li#, Wenlan Chen#, Hai Zhong\*, **Cheng Liang**\*. PCLSurv: a prototypical contrastive learning-based multi-omics data integration model for cancer survival prediction. Briefings in Bioinformatics, 2025, 26(2): bbaf124.
+31. Daoyuan Wang, Lianzhi Wang, Wenlan Chen, Hong Wang, **Cheng Liang**\*. Unsupervised multi-view feature selection based on weighted low-rank tensor learning and its application in multi-omics datasets. Engineering Applications of Artificial Intelligence, 2025, 143: 110041.
 30. Hong Wang, Luhe Zhuang, Yijie Ding, Prayag Tiwari, **Cheng Liang**\*. EDDINet: Enhancing drug-drug interaction prediction via information flow and consensus constrained multi-graph contrastive learning. Artificial Intelligence In Medicine, 2025, 159: 103029.
 29. Peihao Bai, Guanghui Li\*, Jiawei Luo, **Cheng Liang**\*. Deep learning model for protein multi-label subcellular localization and function prediction based on multi-task collaborative training. Briefings in Bioinformatics, 2024, 25(6): bbae568.
 28. **Cheng Liang**, Daoyuan Wang, Huaxiang Zhang, Shichao Zhang\*, Fei Guo\*. Robust Tensor Subspace Learning for Incomplete Multi-View Clustering. IEEE Transactions on Knowledge and Data Engineering, 2024, 36(11): 6934-6948.
