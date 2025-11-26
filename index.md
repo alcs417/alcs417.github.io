@@ -2,17 +2,21 @@
 I am currently a Professor in School of Information Science and Engineering, Shandong Normal University(山东师范大学). I obtained my MD degree and PhD degree in 2010 and 2015 from Hunan University(湖南大学), under the supervision of Prof. Renfa Li(李仁发 教授) and Prof. Jiawei Luo(骆嘉伟 教授), respectively. From 2012 to 2014, I studied in Donnelly Centre, University of Toronto, under the supervision of Prof. Zhaolei Zhang. I was awarded the Excellent Doctoral Dissertation of Hunan University in 2016. My current research interests include bioinformatics and machine learning. 
 
 # Research Interests
-1. Multiview clustering
-2. Feature selection
-3. Machine learning
+1. Multiview Clustering
+2. AI for Science
+3. Generative Models
 
 # Funding
+- Natural Science Foundation of Shandong Province (No. ZR2025QB62), 2025.10-2028.09
 - National Natural Science Foundation of China (No. 62372279), 2024.01-2027.12
 - Natural Science Foundation of Shandong Province (No. ZR2023MF119), 2024.01-2026.12
 - National Natural Science Foundation of China (No. 61602283), 2017.1-2019.12
 - Natural Science Foundation of Shandong Province (No. ZR2016FB10), 2016.11-2018.11
 
 # Selected Publications
+35. Wenlan Chen#, Lu Gao#, **Cheng Liang**\*, Fei Guo\*. Deep Variational Incomplete Multi-View Clustering with Information-Theoretic Guidance. Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM), 2025, 2457-2466.
+34. Fujian Ren#, Wenlan Chen#, Lu Gao, Fei Guo\*, **Cheng Liang**\*. Dual-level Distribution Alignment for Deep Incomplete Multi-view Clustering. Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM), 2025, 2476-2485.
+33. Daoyuan Wang, Lu Gao, Wenlan Chen, **Cheng Liang**\*, Fei Guo\*. Image-enhanced hybrid encoding with reinforced contrastive learning for spatial domain identification in spatial transcriptomics. Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI), 2025, 7769-7777.
 32. Zhimin Li#, Wenlan Chen#, Hai Zhong\*, **Cheng Liang**\*. PCLSurv: a prototypical contrastive learning-based multi-omics data integration model for cancer survival prediction. Briefings in Bioinformatics, 2025, 26(2): bbaf124.
 31. Daoyuan Wang, Lianzhi Wang, Wenlan Chen, Hong Wang, **Cheng Liang**\*. Unsupervised multi-view feature selection based on weighted low-rank tensor learning and its application in multi-omics datasets. Engineering Applications of Artificial Intelligence, 2025, 143: 110041.
 30. Hong Wang, Luhe Zhuang, Yijie Ding, Prayag Tiwari, **Cheng Liang**\*. EDDINet: Enhancing drug-drug interaction prediction via information flow and consensus constrained multi-graph contrastive learning. Artificial Intelligence In Medicine, 2025, 159: 103029.
