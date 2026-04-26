@@ -14,6 +14,10 @@ I am currently a Professor in School of Information Science and Engineering, Sha
 - Natural Science Foundation of Shandong Province (No. ZR2016FB10), 2016.11-2018.11
 
 # Selected Publications
+39. **Cheng Liang**, Wenlan Chen, Lu Gao, Chang-Dong Wang, Shichao Zhang\*, Fei Guo\*. Graph-Embedded Deep Generative Clustering for Single-Cell Multi-Omics Data Integration. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026, doi: 10.1109/TPAMI.2026.3667525. 
+38. **Cheng Liang**, Daoyuan Wang, Fei Guo\*, Shichao Zhang\*. Incomplete Multi-view Clustering via Robust Representation Learning and Tensor-based Co-Regularization. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2026, doi: 10.1109/TCSVT.2026.3657890.
+37. Wenlan Chen, Lu Gao, Daoyuan Wang, Fei Guo\*, **Cheng Liang**\*. Geometry-Aware Variational Information Maximization for Deep Incomplete Multi-view Clustering. The 40th Annual AAAI Conference on Artificial Intelligence (AAAI), 2026, 40(24): 20289-20297.
+36. Lu Gao#, Wenlan Chen#, Daoyuan Wang, Fei Guo\*, **Cheng Liang**\*. Disentangled Cross-Modal Representation Learning with Enhanced Mutual Supervision. The 39th Annual Conference on Neural Information Processing Systems (NeurIPS), 2025, accepted.
 35. Wenlan Chen#, Lu Gao#, **Cheng Liang**\*, Fei Guo\*. Deep Variational Incomplete Multi-View Clustering with Information-Theoretic Guidance. Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM), 2025, 2457-2466.
 34. Fujian Ren#, Wenlan Chen#, Lu Gao, Fei Guo\*, **Cheng Liang**\*. Dual-level Distribution Alignment for Deep Incomplete Multi-view Clustering. Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM), 2025, 2476-2485.
 33. Daoyuan Wang, Lu Gao, Wenlan Chen, **Cheng Liang**\*, Fei Guo\*. Image-enhanced hybrid encoding with reinforced contrastive learning for spatial domain identification in spatial transcriptomics. Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI), 2025, 7769-7777.
