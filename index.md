@@ -15,7 +15,7 @@ I am currently a Professor with School of Computer Science and Artificial Intell
 - Natural Science Foundation of Shandong Province (No. ZR2016FB10), 2016.11-2018.11
 
 # Selected Publications
-43. Daoyuan Wang, Fengyi Zhou, Wenlan Chen, **Cheng Liang**\*, Fei Guo\*. Incomplete Multi-view Clustering via Disentangled Factor Learning with Normalizing Flows. The 34th ACM International Conference on Multimedia (ACM MM), 2026, accepted. 
+43. Daoyuan Wang, Wenlan Chen, Fengyi Zhou, Lu Gao, **Cheng Liang**\*, Fei Guo\*. Incomplete Multi-view Clustering via Disentangled Factor Learning with Normalizing Flows. The 34th ACM International Conference on Multimedia (ACM MM), 2026, accepted. 
 42. Wenlan Chen, Lu Gao, Daoyuan Wang, **Cheng Liang**\*, Fei Guo\*. Information-Theoretic Disentangled Latent Modeling with Conditional Diffusion for Incomplete Multi-View Clustering. The 43rd International Conference on Machine Learning (ICML), 2026, accepted. (Spotlight, top 2.2%)
 41. Fengyi Zhou, Daoyuan Wang, Wenlan Chen, **Cheng Liang**\*, Fei Guo\*. GBFlow: Grouping Belief-Guided Dual Normalizing Flows for Accurate Spatial Domain Delineation. The 35th International Joint Conference on Artificial Intelligence (IJCAI), 2026, accepted.
 40. Daoyuan Wang, Fengyi Zhou, Wenlan Chen, **Cheng Liang**\*, Fei Guo\*. Accurate delineation of cellular niches via integrated spatial transcriptomics and histological imaging with SYMOL. Genome Research, 2026, accepted. 
