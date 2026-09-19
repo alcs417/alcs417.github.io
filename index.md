@@ -1,12 +1,13 @@
 # Personal Info
-I am currently a Professor in School of Information Science and Engineering, Shandong Normal University(山东师范大学). I obtained my MD degree and PhD degree in 2010 and 2015 from Hunan University(湖南大学), under the supervision of Prof. Renfa Li(李仁发 教授) and Prof. Jiawei Luo(骆嘉伟 教授), respectively. From 2012 to 2014, I studied in Donnelly Centre, University of Toronto, under the supervision of Prof. Zhaolei Zhang. I was awarded the Excellent Doctoral Dissertation of Hunan University in 2016. My current research interests include bioinformatics and machine learning. 
+I am currently a Professor with School of Computer Science and Artificial Intelligence, Shandong Normal University(山东师范大学). I obtained my MD degree and PhD degree in 2010 and 2015 from Hunan University(湖南大学), under the supervision of Prof. Renfa Li(李仁发 教授) and Prof. Jiawei Luo(骆嘉伟 教授), respectively. From 2012 to 2014, I studied in Donnelly Centre, University of Toronto, under the supervision of Prof. Zhaolei Zhang. I was awarded the Excellent Doctoral Dissertation of Hunan University in 2016. I serve as (Senior) Program Committee Member for major international conferences, including ICML, NeurIPs, AAAI, ACM MM, IJCAI, and BIBM.
 
 # Research Interests
-1. Multiview Clustering
-2. AI for Science
-3. Generative Models
+1. Deep Generative Models
+2. Multi-modal Learning
+3. AI for Science
 
 # Funding
+- National Natural Science Foundation of China (No. 62672291), 2027.01-2030.12
 - Natural Science Foundation of Shandong Province (No. ZR2025QB62), 2025.10-2028.09
 - National Natural Science Foundation of China (No. 62372279), 2024.01-2027.12
 - Natural Science Foundation of Shandong Province (No. ZR2023MF119), 2024.01-2026.12
@@ -14,6 +15,7 @@ I am currently a Professor in School of Information Science and Engineering, Sha
 - Natural Science Foundation of Shandong Province (No. ZR2016FB10), 2016.11-2018.11
 
 # Selected Publications
+43. Daoyuan Wang, Fengyi Zhou, Wenlan Chen, **Cheng Liang**\*, Fei Guo\*. Incomplete Multi-view Clustering via Disentangled Factor Learning with Normalizing Flows. The 34th ACM International Conference on Multimedia (ACM MM), 2026, accepted. 
 42. Wenlan Chen, Lu Gao, Daoyuan Wang, **Cheng Liang**\*, Fei Guo\*. Information-Theoretic Disentangled Latent Modeling with Conditional Diffusion for Incomplete Multi-View Clustering. The 43rd International Conference on Machine Learning (ICML), 2026, accepted. (Spotlight, top 2.2%)
 41. Fengyi Zhou, Daoyuan Wang, Wenlan Chen, **Cheng Liang**\*, Fei Guo\*. GBFlow: Grouping Belief-Guided Dual Normalizing Flows for Accurate Spatial Domain Delineation. The 35th International Joint Conference on Artificial Intelligence (IJCAI), 2026, accepted.
 40. Daoyuan Wang, Fengyi Zhou, Wenlan Chen, **Cheng Liang**\*, Fei Guo\*. Accurate delineation of cellular niches via integrated spatial transcriptomics and histological imaging with SYMOL. Genome Research, 2026, accepted. 
